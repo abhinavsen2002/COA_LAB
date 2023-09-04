@@ -1,0 +1,168 @@
+ISim log file
+Running: /home/abhinavsen2002/coa Lab/KGP-RISC/CPU_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/abhinavsen2002/coa Lab/KGP-RISC/CPU_test_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:51 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68a - user is abhinavsen2002, on host unknown.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  /home/abhinavsen2002/.Xilinx/*.lic:/opt/Xilinx/14.7/ISE_DS/ISE//data/*.lic:/opt/Xilinx/14.7/ISE_DS/ISE//coregen/core_licenses/Xilinx.lic:/opt/Xilinx/14.7/ISE_DS/ISE//coregen/core_licenses/XilinxFree.lic:/opt/Xilinx/14.7/ISE_DS/EDK/data/core_licenses/Xilinx.lic:
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+ Block Memory Generator CORE Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator CORE Generator module CPU_test.uut.IM.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator CORE Generator module CPU_test.uut.dataMem.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Finished circuit initialization process.
+          0           0           0
+          0           6           0
+          0           6           0
+         12           6           0
+         12           6           0
+         12           6           0
+         12           5           0
+         12           5           0
+         24           5           0
+         24           5           0
+         24           5           0
+         24           4           0
+         36           4           0
+         36           4           0
+         36           4           0
+         36           3           0
+         48           3           0
+         48           3           0
+         48           3           0
+         48           2           0
+         60           2           0
+         60           2           0
+         60           2           0
+         60           1           0
+         72           1           0
+         72           1           0
+         72           1           0
+         72           1           0
+         60           1           0
+         60           2           0
+         60           0           0
+         60           0           0
+         72           0           0
+         72           0           0
+         72           0           0
+         60           0           0
+         60           0           0
+         60           0           0
+         60           0           0
+         48           0           0
+         48           3           0
+         48           1           0
+         48           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         48           1           0
+         48           1           0
+         48           1           0
+         36           1           0
+         36           4           0
+         36           2           0
+         36           2           0
+         48           2           0
+         48           2           0
+         48           2           0
+         48           1           0
+         48           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         48           1           0
+         48           2           0
+         48           0           0
+         48           0           0
+         60           0           0
+         60           0           0
+         60           0           0
+         48           0           0
+         48           0           0
+         36           0           0
+         36           0           0
+         36           0           0
+         36           0           0
+         24           0           0
+         24           5           0
+         24           3           0
+         24           3           0
+         36           3           0
+         36           3           0
+         36           2           0
+         36           2           0
+         48           2           0
+         48           2           0
+         48           2           0
+         48           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         60           1           0
+         48           1           0
+         48           2           0
+         48           0           0
+         48           0           0
+         60           0           0
+         60           0           0
+         60           0           0
+         48           0           0
+         48           0           0
+         48           0           0
+         48           0           0
+         36           0           0
+         36           3           0
+         36           1           0
+         36           1           0
+         48           1           0
+         48           1           0
+         48           1           0
+         48           1           0
+         36           1           0
+         36           1           0
+         24           1           0
+         24           1           0
+         24           1           0
+         24           1           0
+         12           1           0
+         12           6           0
+         12           4           0
+         12           4           0
+         24           4           0
+         24           4           0
+         24           4           0
+         24           3           0
+         24           3           0
+         36           3           0
+         36           3           0
+         36           3           0
+         36           2           0
+         48           2           0
+# exit 0
